@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectWizardLocationPage">
+		<list key="location">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArchetypePage">
+		<item key="catalog" value="internal"/>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="Maven2ProjectWizardArchifactPage">
+		<list key="package">
+			<item value="com.sample"/>
+			<item value="samplespring.samplespring"/>
+		</list>
+		<list key="groupId">
+			<item value="sampleLern"/>
+			<item value="samplespring"/>
+		</list>
+		<list key="artifactId">
+			<item value="sample"/>
+			<item value="samplespring"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArtifactPage">
+		<list key="groupId">
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="C:\Users\Ghanshyam\Downloads\bin\SpringBootHelloWorld-data_security"/>
+			<item value="C:\Users\Ghanshyam\Downloads\New folder\demo"/>
+			<item value="C:\Users\Ghanshyam\Downloads\extract\SpringBoot-iText-PDF-Generator-Example"/>
+			<item value="C:\Users\Ghanshyam\Downloads\bin\springrest"/>
+			<item value="C:\Users\Ghanshyam\Downloads\bin\spring-boot-itext-pdf-generation-example-master"/>
+			<item value="C:\Users\Ghanshyam\Downloads\gs-accessing-data-jpa-main"/>
+			<item value="C:\Users\Ghanshyam\Downloads\spring-boot-crud-operation"/>
+			<item value="C:\Users\Ghanshyam\Downloads\gs-accessing-data-mysql-main"/>
+			<item value="C:\Users\Ghanshyam\Downloads\Spring-boot-mysql-master"/>
+			<item value="C:\Users\Ghanshyam\Downloads\mysql-8.0.21-winx64\gs-accessing-data-mysql-main"/>
+			<item value="C:\Users\Ghanshyam\Downloads\gs-rest-service-main"/>
+			<item value="C:\Users\Ghanshyam\Downloads\spring-boot-h2-database-example"/>
+			<item value="C:\Users\Ghanshyam\Downloads\apache-derby-example"/>
+			<item value="D:\demo"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+	<section name="wizardPage">
+		<list key="groupId">
+			<item value="tabledesign"/>
+			<item value="paraghaph"/>
+			<item value="itexSample"/>
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+			<item value="tabledesign"/>
+			<item value="paraghaph"/>
+			<item value="itexSample"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+</section>

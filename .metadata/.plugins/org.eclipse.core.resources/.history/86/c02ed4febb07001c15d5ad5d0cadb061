@@ -1,0 +1,21 @@
+package com.jpa.test;
+
+import javax.websocket.server.PathParam;
+
+import org.apache.catalina.connector.Response;
+import org.springframework.web.bind.annotation.RestController;
+
+@RestController("/pdf")
+public class Controller {
+	
+	public Response generateReport( String content) 
+	{
+		
+		
+		return null;
+		
+	}
+	
+	
+
+}

@@ -1,0 +1,11 @@
+package com.jpa.test;
+
+public class Service {
+
+	private String content1;
+
+	public String getContent1() {
+		return content1;
+	}
+
+}

@@ -1,0 +1,20 @@
+package com.jpa.test;
+
+import com.itextpdf.text.Document;
+import com.itextpdf.text.pdf.PdfDocument;
+import com.itextpdf.text.pdf.PdfWriter;
+
+public class Table {
+
+	String dest = "D:\\areabreak.pdf";
+	PdfWriter writer = new PdfWriter();
+	
+	PdfDocument pdfDoc=new PdfDocument(writer);
+	pdfDoc.addNewPage();
+	Document document= new Document(pdfDoc);
+	document.add(ab);
+	document.close();
+	System.out.println("pdf created");
+	
+	
+}

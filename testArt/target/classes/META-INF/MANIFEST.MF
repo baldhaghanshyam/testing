@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: Ghanshyam
+Build-Jdk: 11.0.8
+Implementation-Title: testArt
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: test
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-URL: https://spring.io/projects/spring-boot/testArt
+Created-By: Maven Integration for Eclipse
+
